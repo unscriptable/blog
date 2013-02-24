@@ -21,6 +21,8 @@ To be notified when people add new comments to a specific blog post, simply comm
 
 ## Guest posts
 
-You can write your own cujojs-related blog posts!  Got a success story?  Did you have a revelation when learning about IOC, AOP, or modules?  Let the world know!
+You can write your own blog posts about cujojs!
+
+Got a success story?  Did you have a revelation when learning about IOC, AOP, or modules?  Let the world know!
 
 First, please check out the [contributing.md] file for guidelines and detailed instructions.

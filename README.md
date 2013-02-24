@@ -25,4 +25,4 @@ You can write your own blog posts about cujojs!
 
 Got a success story?  Did you have a revelation when learning about IOC, AOP, or modules?  Let the world know!
 
-First, please check out the [contributing.md] file for guidelines and detailed instructions.
+First, please check out the [contributing](contributing.md) file for guidelines and detailed instructions.

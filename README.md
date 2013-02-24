@@ -4,6 +4,11 @@
 
 This is the place to read (and write) about all things cujojs!
 
+## How to explore
+
+* Click on the [posts](posts) folder to browse.
+* Click [here](https://github.com/search?q=repo%3Aunscriptable%2Fblog+posts/&ref=searchresults) to search!
+
 ## How to comment
 
 For each blog post, we will open a Github issue and link to it from the bottom of each post.  Github issues let you add comments and see what others are saying.
